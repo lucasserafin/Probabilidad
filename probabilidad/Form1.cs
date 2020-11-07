@@ -39,7 +39,7 @@ namespace probabilidad
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //coment23333
+            //coment233333
             double total3 = 0;
             foreach (DataGridViewRow row in dgw.Rows)
             {
