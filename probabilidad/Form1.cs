@@ -39,6 +39,7 @@ namespace probabilidad
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //coment
             double total3 = 0;
             foreach (DataGridViewRow row in dgw.Rows)
             {
@@ -72,7 +73,7 @@ namespace probabilidad
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //comentario
+            ///confirmar3
             foreach (DataGridViewRow row in dgw.Rows)
             {
                 double varianza;
