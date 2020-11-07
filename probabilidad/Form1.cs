@@ -72,7 +72,7 @@ namespace probabilidad
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            //comentario
             foreach (DataGridViewRow row in dgw.Rows)
             {
                 double varianza;
