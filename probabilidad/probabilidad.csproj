@@ -46,6 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="calses\dai.cs" />
+    <Compile Include="calses\eze.cs" />
+    <Compile Include="calses\lucas.cs" />
+    <Compile Include="calses\maxi.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
